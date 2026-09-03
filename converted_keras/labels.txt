@@ -1,0 +1,10 @@
+0 abssynian
+1 turkish_van
+2 sphynx
+3 siamese
+4 persian
+5 bengal
+6 main_coon
+7 scottish_fol...
+8 nebelung
+9 birman
